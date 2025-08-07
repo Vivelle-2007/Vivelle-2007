@@ -3,10 +3,6 @@
   <em>Just getting started with code. Exploring, learning, and building simple things one step at a time.</em>
 </p>
 
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1188300246791503943?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=20px" alt="Discord Presence">
-</p>
-
 ---
 
 ### 🧠 About Me
