@@ -1,27 +1,33 @@
 <h1 align="center">Hey, I'm Vivek 👋</h1>
+
 <p align="center">
-  <em>Just getting started with code. Exploring, learning, and building simple things one step at a time.</em>
+  <em>Beginner learning programming by experimenting and building stuff.</em><br>
+  <em>Just exploring and trying to understand how things work.</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Learning+CS+step+by+step.;Still+figuring+things+out." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 📌 Learning basics of **JavaScript**, **C++**, and a bit of **Python**
-- 🤖 Still figuring out what automation means 😅
-- 🧱 I mostly use stuff — don’t know how they work yet, but I’m trying
-- 🎯 Just someone who codes random things for fun (and because bugs are funny sometimes)
+- 📚 Just getting started with **JavaScript**, **C++**, **Python**
+- 🎯 Trying to understand how to make things work
+- 🧪 Learning by trial and error
+- 🌱 Still figuring out what I enjoy in tech
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💬 Languages I’m trying to learn
+### 💬 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,python" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,python,html,css" alt="Languages" />
 </p>
 
-### ⚙️ Tools I use (because others use them 😄)
+### ⚙️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,git" alt="Tools" />
 </p>
@@ -31,8 +37,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivelle-2007&show_icons=true&theme=radical&border_radius=10" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivelle-2007&layout=compact&theme=radical&border_radius=10" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivelle-2007&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivelle-2007&layout=compact&theme=tokyonight&border_radius=10" height="180" />
 </p>
 
 ---
@@ -48,17 +54,13 @@
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="https://t.me/god_sora">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://t.me/god_sora" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/vivelle.aos/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/vivelle.aos/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:vivek931@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:vivek931@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-<!-- Profile: Vivelle-2007 -->
