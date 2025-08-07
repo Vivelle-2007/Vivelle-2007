@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Just+started+coding...;Trying+random+things...;No+idea+what+I'm+doing+yet+😅" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Just+started+coding...;Trying+random+things...;No+idea+what+I'm+doing+yet+%F0%9F%98%85" alt="Typing SVG" />
 </p>
