@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Learning+CS+step+by+step.;Still+figuring+things+out." alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 ### 🧠 About Me
