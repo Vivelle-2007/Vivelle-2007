@@ -58,8 +58,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivek-1905&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-1905&layout=pie&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Vivek-1905&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vivek-1905&layout=compact&theme=tokyonight&border_radius=10" height="180" />
 </p>
 
 ### Contribution Graph
