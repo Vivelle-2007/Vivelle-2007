@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Learning+CS+step+by+step.;Experimenting+with+systems+and+web.;Figuring+things+out+as+I+go." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=120&lines=Learning+CS+step+by+step.;Experimenting+with+systems+and+web.;Figuring+things+out+as+I+go." alt="Typing SVG" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vivek-1905&show_icons=true&theme=tokyonight&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-1905&layout=compact&theme=tokyonight&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek-1905&layout=pie&theme=tokyonight&border_radius=10" height="180" />
 </p>
 
 ### Contribution Graph
