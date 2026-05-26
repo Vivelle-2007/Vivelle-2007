@@ -73,13 +73,13 @@
 ### Reach Me
 
 <p align="center">
-  <a href="https://t.me/god_sora" target="_blank">
+  <a href="https://t.me/Vivelle_aos" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/vivelle.aos/" target="_blank">
+  <a href="https://www.instagram.com/sora._1905/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:vivek931@gmail.com" target="_blank">
+  <a href="mailto:vivek931tiwari@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
